@@ -7,7 +7,7 @@
 
 **IP Locator** è una semplice applicazione Flutter che permette di localizzare un indirizzo IP fornito dall'utente.  Utilizza un'API esterna per ottenere informazioni geografiche associate all'IP e le visualizza in un'interfaccia utente intuitiva.
 
-![Screenshot dell'applicazione](ip_locator_app.jpg) <!-- Aggiungi uno screenshot! -->
+![Screenshot dell'applicazione]<img src="ip_locator_app.jpg" width="800" height="450">
 
 ## Caratteristiche
 
@@ -76,20 +76,18 @@
 
 ## Struttura del Progetto
 
-ip_locator/
-├── android/ # Configurazione specifica per Android
-├── ios/ # Configurazione specifica per iOS
-├── lib/ # Codice sorgente dell'applicazione
-│ ├── main.dart # Punto di ingresso dell'applicazione
-│ ├── models/ # Definizioni dei modelli di dati (es: IpInfo)
-│ ├── providers/ # Gestione dello stato con Provider (es: IpProvider)
-│ ├── screens/ # Le schermate dell'app (es: HomeScreen, HistoryScreen)
-│ ├── services/ # Servizi per chiamate API (es: IpService)
-│ └── widgets/ # Componenti UI riutilizzabili
-├── .gitignore # File per ignorare file non necessari nel repository
-├── pubspec.yaml # File di configurazione del progetto Flutter
-├── README.md # Questo file
-└── ...
+*   `android/`: Configurazione specifica per Android
+*   `ios/`: Configurazione specifica per iOS
+*   `lib/`: Codice sorgente dell'applicazione
+    *   `main.dart`: Punto di ingresso dell'applicazione
+    *   `models/`: Definizioni dei modelli di dati (es: IpInfo)
+    *   `providers/`: Gestione dello stato con Provider (es: IpProvider)
+    *   `screens/`: Le schermate dell'app (es: HomeScreen, HistoryScreen)
+    *   `services/`: Servizi per chiamate API (es: IpService)
+    *   `widgets/`: Componenti UI riutilizzabili
+*   `.gitignore`: File per ignorare file non necessari nel repository
+*   `pubspec.yaml`: File di configurazione del progetto Flutter
+*   `README.md`: Questo file
 
 ## Contribuire
 
