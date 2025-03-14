@@ -7,7 +7,7 @@
 
 **IP Locator** è una semplice applicazione Flutter che permette di localizzare un indirizzo IP fornito dall'utente.  Utilizza un'API esterna per ottenere informazioni geografiche associate all'IP e le visualizza in un'interfaccia utente intuitiva.
 
-![Screenshot dell'applicazione](screenshot.png) <!-- Aggiungi uno screenshot! -->
+![Screenshot dell'applicazione](ip_locator_app.jpg) <!-- Aggiungi uno screenshot! -->
 
 ## Caratteristiche
 
