@@ -100,9 +100,6 @@ Se desideri contribuire a questo progetto, sentiti libero di aprire una issue o 
 4.  Fai il push al branch: `git push origin feature/mia-feature`
 5.  Apri una pull request.
 
-## Licenza
-
-[MIT](LICENSE) <!-- Sostituisci con la licenza appropriata se ne hai una -->
 
 ## Autore
 
