@@ -75,3 +75,52 @@
 5.  (Opzionale) Controlla la cronologia degli IP ricercati.
 
 ## Struttura del Progetto
+
+ip_locator/
+├── android/ # Configurazione specifica per Android
+├── ios/ # Configurazione specifica per iOS
+├── lib/ # Codice sorgente dell'applicazione
+│ ├── main.dart # Punto di ingresso dell'applicazione
+│ ├── models/ # Definizioni dei modelli di dati (es: IpInfo)
+│ ├── providers/ # Gestione dello stato con Provider (es: IpProvider)
+│ ├── screens/ # Le schermate dell'app (es: HomeScreen, HistoryScreen)
+│ ├── services/ # Servizi per chiamate API (es: IpService)
+│ └── widgets/ # Componenti UI riutilizzabili
+├── .gitignore # File per ignorare file non necessari nel repository
+├── pubspec.yaml # File di configurazione del progetto Flutter
+├── README.md # Questo file
+└── ...
+
+## Contribuire
+
+Se desideri contribuire a questo progetto, sentiti libero di aprire una issue o inviare una pull request. Tutte le contribuzioni sono benvenute!
+
+1.  Fai un fork del repository.
+2.  Crea un branch con la tua feature: `git checkout -b feature/mia-feature`
+3.  Fai il commit delle tue modifiche: `git commit -m 'Aggiunta nuova feature'`
+4.  Fai il push al branch: `git push origin feature/mia-feature`
+5.  Apri una pull request.
+
+## Licenza
+
+[MIT](LICENSE) <!-- Sostituisci con la licenza appropriata se ne hai una -->
+
+## Autore
+
+[ZanchiSerse](https://github.com/ZanchiSerse)
+
+## Ringraziamenti
+
+*   Un ringraziamento speciale a [nome del provider API](Indirizzo del sito del provider API) per fornire i dati di localizzazione IP.
+
+---
+
+**Nota:**
+
+*   Aggiungi uno screenshot dell'applicazione per renderla più attraente.
+*   Specifica l'API di geolocalizzazione utilizzata nel progetto.
+*   Assicurati di includere un file `LICENSE` se desideri specificare una licenza open-source.
+*   Aggiorna la sezione "Contribuire" con le linee guida specifiche per il tuo progetto.
+*   Considera l'aggiunta di un breve video demo dell'applicazione.
+*   Controlla che il percorso dei file nella sezione "Struttura del progetto" sia corretto.
+*   Rivedi e adatta il testo per riflettere accuratamente le caratteristiche e lo stato attuale del progetto.
