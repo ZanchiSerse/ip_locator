@@ -6,8 +6,9 @@
 [![GitHub License](https://img.shields.io/github/license/ZanchiSerse/ip_locator)](https://github.com/ZanchiSerse/ip_locator/blob/main/LICENSE) <!-- Aggiungi se hai una licenza -->
 
 **IP Locator** è una semplice applicazione Flutter che permette di localizzare un indirizzo IP fornito dall'utente.  Utilizza un'API esterna per ottenere informazioni geografiche associate all'IP e le visualizza in un'interfaccia utente intuitiva.
-
-<img src="ip_locator_app.jpg" width="600" height="800">  <!-- Solo larghezza -->
+<div align="center">
+  <img src="ip_locator_app.jpg"width="600" height="800">
+</div>
 
 ## Caratteristiche
 
