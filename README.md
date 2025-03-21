@@ -107,7 +107,7 @@ Se desideri contribuire a questo progetto, sentiti libero di aprire una issue o 
 
 ## Ringraziamenti
 
-*   Un ringraziamento speciale a [nome del provider API](Indirizzo del sito del provider API) per fornire i dati di localizzazione IP.
+*   Un ringraziamento speciale a www.ipify.org (Indirizzo del sito del provider API) per fornire i dati di localizzazione IP.
 
 ---
 
